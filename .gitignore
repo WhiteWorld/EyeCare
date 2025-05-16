@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+.venv/
+venv/
+.env
+.coverage
+coverage.xml
+report/
+build/
+dist/
+*.egg-info/
+eyecare_app.log
